@@ -8,4 +8,13 @@ public class OperatorBinary {
     String nama = "Dyah Dwi Handayani";
     int jumlahSks =24;
     double indeksPrestasiKumulatif = 3.48;
+
+    public static void main(String[] args) {
+        System.out.println(9 + 3);
+        System.out.println(9 - 3);
+        System.out.println(9 * 3);
+        System.out.println(9 / 3);
+        System.out.println(9 % 3);
+
+    }
 }
